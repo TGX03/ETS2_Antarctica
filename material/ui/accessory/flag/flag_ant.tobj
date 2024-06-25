@@ -1,0 +1,3 @@
+map	2d	flag_ant.tga
+addr	 clamp_to_edge	 clamp_to_edge
+usageui

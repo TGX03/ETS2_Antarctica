@@ -1,0 +1,7 @@
+effect : "eut2.dif.shadow.rfx" {
+	texture : "texture_base" {
+		source : "ant.tobj"
+		u_address : clamp
+		v_address : clamp
+	}
+}
